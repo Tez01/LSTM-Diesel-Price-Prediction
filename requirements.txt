@@ -1,0 +1,12 @@
+tensorflow-1.12
+
+matplotlib
+
+sklearn
+
+graphviz
+
+pydot
+
+numpy 
+pandas
