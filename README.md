@@ -1,4 +1,5 @@
 # LSTM-Diesel-Price-Prediction
+![](https://github.com/Tez01/LSTM-Diesel-Price-Prediction/blob/master/diesel.png)
 This is Keras implementation of Diesel price prediction using LSTM. The model takes in input data from previous 90 days and predicts price for the next day.
 
 The model is implemented using Keras(Tensorflow 1.12 as backend)
